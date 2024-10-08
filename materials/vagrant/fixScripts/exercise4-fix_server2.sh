@@ -1,6 +1,6 @@
 #!/bin/bash
 #add fix to exercise4-server2 here
-Creating an SSH key on server 2-->ssh-keygen -t rsa   #.1
+#Creating an SSH key on server 2-->ssh-keygen -t rsa   .1
 
 #Take this key and coping him on server 1    .2
 #cat ~/.ssh/id_rsa.pub (the key of server2)
