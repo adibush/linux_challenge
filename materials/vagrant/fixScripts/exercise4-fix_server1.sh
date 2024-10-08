@@ -2,7 +2,7 @@
 #add fix to exercise4-server1 here
 #Creating an SSH key on server 1-->ssh-keygen -t rsa   .1
 
-Take this key and coping him on server 2   .#2
+#Take this key and coping him on server 2   .2
 #cat ~/.ssh/id_rsa.pub (the key of server1)
 #nano ~/.ssh/authorized_keys
 
