@@ -6,7 +6,7 @@
 #cat ~/.ssh/id_rsa.pub (the key of server2)
 #nano ~/.ssh/authorized_keys
 
-3.   #Gives permissions to the authorized_keys file and to .ssh
+#3.   Gives permissions to the authorized_keys file and to .ssh
 #chmod 600 ~/.ssh/authorized_keys
 #chmod 700 ~/.ssh
 
